@@ -2,7 +2,7 @@
 
 Por: Susana Álvarez Zuluaga, Camilo Cossio Alzate, Juan Pablo Madrid Peláez y Mariajose Franco Orozco.
 
-En este repositorio se pueden encontrar todos los recursos utilizados en el desarrollo del proyecto. El lenguaje de programación utilizado fue Python. A continuación una breve descripción de los contenidos
+En este repositorio se pueden encontrar todos los recursos utilizados en el desarrollo del proyecto. El lenguaje de programación utilizado fue Python. Para la ejecución de los algoritmos solamente es necesario contar con los archivos .xlsx y .csv en la misma carpeta donde se encuentren los archivos a correr, no es necesario modificar nada. A continuación una breve descripción de los contenidos.
 
 # Contenido
 
