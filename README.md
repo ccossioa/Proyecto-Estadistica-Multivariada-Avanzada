@@ -1,4 +1,4 @@
-# Proyecto-Estadistica-Multivariada-Avanzada
+# Predicción del Precio de Carros Usando Machine Learning.
 
 Por: Susana Álvarez Zuluaga, Camilo Cossio Alzate, Juan Pablo Madrid Peláez y Mariajose Franco Orozco.
 
