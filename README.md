@@ -1,1 +1,1 @@
-# Proyecto-Estad-stica-Multivariada-Avanzada
+# Proyecto-Estadistica-Multivariada-Avanzada
